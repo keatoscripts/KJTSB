@@ -1,0 +1,4 @@
+getgenv().sendChat = true
+getgenv().BetterGraphics = true
+
+loadstring(game:HttpGet"https://raw.githubusercontent.com/wispwisp22/Limitless-legacy/refs/heads/main/ReuploadedJun")()
